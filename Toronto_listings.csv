@@ -1,21 +1,101 @@
 Price,Address,Beds,Baths,Type,Link
-"$699,900","#618 -438 RICHMOND ST W, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$9,500,000","4 CLUNY AVE, Toronto, ON",4 bed,5 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$550,000","#210 -1808 ST CLAIR AVE W, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$3,250,000","45 HERNE HILL, Toronto, ON",5 bed,5 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$4,950,000","12 BEARWOOD DR, Toronto, ON",5 bed,7 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$2,793,000","26 MATANE CRT, Toronto, ON",4 bed,5 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$765,000","#306 -11 SUPERIOR AVE, Toronto, ON",3 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$849,900","#2426 -165 LEGION RD N, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$678,000","#215 -2433 DUFFERIN ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$899,000","37 SERGIO MARCHI ST, Toronto, ON",4 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$2,999,000","#3501 -1 PALACE PIER CRT, Toronto, ON",3 bed,3 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$739,900","#1010 -286 MAIN ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$999,000","#1111 -30 BASEBALL PL, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$449,900","#213 -10 MENDELSSOHN ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$899,900","40 LEROY AVE, Toronto, ON",3 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$795,000","##10 -686 WARDEN AVE, Toronto, ON",3 bed,4 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$459,990","#903 -32 TROLLEY CRES, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$760,000","#3506 -10 NAVY WHARF CRT, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$3,900,000","#4302 -224 KING ST W, Toronto, ON",4 bed,3 bath,Condo,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
-"$1,300,000","21 RONDALE BLVD, Toronto, ON",5 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/21-rondale-blvd-wp_idm73000004-26873157-lst
+"$1,249,000","#2607 -1928 LAKESHORE BLVD W, Toronto, ON",2 bed,3 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,388,000","165 PERTH AVE, Toronto, ON",5 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,199,888","152 DOWLING AVE, Toronto, ON",5 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$819,900","#115 -251 MANITOBA ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$3,300","#3 -67 OAKMOUNT RD, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,265,900","26B LOBO MEWS, Toronto, ON",3 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,598,000","1 WINSLOW ST, Toronto, ON",3 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,949,000","30 BARFIELD AVE, Toronto, ON",4 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,125,000","18 AYLESFORD DR, Toronto, ON",4 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$699,000","#2903 -2181 YONGE ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$629,999","#1005 -101 ERSKINE AVE, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$499,000","#702 -1665 VICTORIA PARK AVE, Toronto, ON",3 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$799,000","#1026 -1 SHAW ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$499,900","#2109 -30 ORDNANCE ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$679,999","#711 -135 EAST LIBERTY ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$999,900","#623 -50 POWER ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$499,000","#420 -170 SUDBURY ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,369,000","246 ONTARIO ST, Toronto, ON",2 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$449,000","#1605 -251 JARVIS ST, Toronto, ON",0 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$975,000","#6 -473 DUPONT ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,850","#2 -679 DOVERCOURT RD, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$659,000","#SPH23 -1 EDGEWATER DR, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$459,000","#2110 -125 BLUE JAYS WAY, Toronto, ON",0 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$948,000","82 ST NICHOLAS ST, Toronto, ON",2 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$669,900","#3209 -65 BREMNER BLVD, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$750,000","#1707 -15 LOWER JARVIS ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,759,000","#505 -25 SCRIVENER SQ, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$599,000","#4115 -85 WOOD ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,150,000","#504 -106 DOVERCOURT RD, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$650,000","#1912 -85 BLOOR ST E, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,898,800","483 ONTARIO ST, Toronto, ON",8 bed,5 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$29,000,000","#1700 -155 CUMBERLAND ST, Toronto, ON",3 bed,4 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,400","#1 -346 NORTHCLIFFE BLVD, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,169,000","#101 -70 ELMSTHORPE AVE, Toronto, ON",3 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$594,900","#1305 -70 DISTILLERY LANE E, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$869,900","#1218 -585 BLOOR ST E, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$899,900","#14 -150 LONG BRANCH AVE, Toronto, ON",4 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,225,000","10 INNES AVE, Toronto, ON",4 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$694,900","#4106 -20 SHORE BREEZE DR, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$3,400","#2 -51 MCMURRAY AVE, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$459,990","#903 -32 TROLLEY CRES, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$760,000","#3506 -10 NAVY WHARF CRT, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$3,900,000","#4302 -224 KING ST W, Toronto, ON",4 bed,3 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,300,000","21 RONDALE BLVD, Toronto, ON",5 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,850","#2 -679 DOVERCOURT RD, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$659,000","#SPH23 -1 EDGEWATER DR, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$459,000","#2110 -125 BLUE JAYS WAY, Toronto, ON",0 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$948,000","82 ST NICHOLAS ST, Toronto, ON",2 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$669,900","#3209 -65 BREMNER BLVD, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$750,000","#1707 -15 LOWER JARVIS ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,759,000","#505 -25 SCRIVENER SQ, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$599,000","#4115 -85 WOOD ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,150,000","#504 -106 DOVERCOURT RD, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$650,000","#1912 -85 BLOOR ST E, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,898,800","483 ONTARIO ST, Toronto, ON",8 bed,5 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$29,000,000","#1700 -155 CUMBERLAND ST, Toronto, ON",3 bed,4 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,400","#1 -346 NORTHCLIFFE BLVD, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,169,000","#101 -70 ELMSTHORPE AVE, Toronto, ON",3 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$594,900","#1305 -70 DISTILLERY LANE E, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$869,900","#1218 -585 BLOOR ST E, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$899,900","#14 -150 LONG BRANCH AVE, Toronto, ON",4 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,225,000","10 INNES AVE, Toronto, ON",4 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$694,900","#4106 -20 SHORE BREEZE DR, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$3,400","#2 -51 MCMURRAY AVE, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$799,999","#623 -1787 ST. CLAIR AVE W, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$649,900","#527 -5 MABELLE AVE, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$850,000","#1004 -1 LOMOND DR, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$459,000","#2115 -1928 LAKE SHORE BLVD W, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$559,000","#2901 -1928 LAKE SHORE BLVD W, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,199,000","53 HARSHAW AVE, Toronto, ON",4 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,850,000","562 INDIAN RD, Toronto, ON",4 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$999,000","17 THIRTY THIRD ST, Toronto, ON",3 bed,1 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$579,990","#2903 -2230 LAKE SHORE BLVD W, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$529,900","#733 -10 LAIDLAW ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,880,000","137 SPRINGHURST AVE, Toronto, ON",6 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,099,000","16 BRALORNE CRES, Toronto, ON",3 bed,3 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$699,000","397 PHARMACY AVE, Toronto, ON",3 bed,1 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,789,000","50 WHISTLE POST ST, Toronto, ON",5 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$989,900","#401 -1003 QUEEN ST E, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,999,000","96 EATON AVE, Toronto, ON",3 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$750,000","#209 -980 YONGE ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,395","#14 -510 JARVIS ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$598,000","#406 -34 TUBMAN AVE, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,395,000","32 BELVIDERE AVE, Toronto, ON",3 bed,2 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$769,000","#323 -900 MOUNT PLEASANT RD, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,199,000","#1212 -501 YONGE ST, Toronto, ON",3 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$1,999,000","561 ARLINGTON AVE, Toronto, ON",3 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$639,900","#444 -20 INN ON THE PARK DR, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$799,900","#1 -89 LILLIAN ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$675,000","#316 -36 LISGAR ST, Toronto, ON",2 bed,2 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$3,689,000","16 ROWANWOOD AVE, Toronto, ON",3 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$670,000","#301 -569 KING ST E, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$560,000","#811 -12 YORK ST, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,395,000","#1102 -61 ST CLAIR AVE W, Toronto, ON",2 bed,3 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$625,000","#408 -2603 BATHURST ST, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$674,888","#PH03 -10 WILLISON SQ, Toronto, ON",1 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$699,000","#210 -901 QUEEN ST W, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$798,000","#206 -1 BELSIZE DR, Toronto, ON",2 bed,1 bath,Condo,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,775,000","47 NORTHCOTE AVE, Toronto, ON",N/A bed,0 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
+"$2,299,000","623 VESTA DR, Toronto, ON",5 bed,4 bath,House,https://www.remax.ca/on/toronto-real-estate/623-vesta-dr-wp_idm73000004-26872190-lst
