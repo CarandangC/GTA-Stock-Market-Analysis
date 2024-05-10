@@ -1,0 +1,4 @@
+I predict that as the prices go up, the number of bedrooms and bathrooms should increase.
+
+As prices go down, the number of bedrooms and bathrooms should decrease.
+

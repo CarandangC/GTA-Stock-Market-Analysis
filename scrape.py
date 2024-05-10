@@ -1,7 +1,8 @@
-from selenium import webdriver
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
+from datetime import date
+
 
 
 prices = []
@@ -26,9 +27,9 @@ for page_num in range(1,6):
         
         price = view.find("h2", class_ = "listing-card_price__lEBmo").text
         bed_and_bath = view.find("div", class_="property-details_detailsWrapper__6W1XU listing-card_propertyDetailsRoot__SC_jl").text
-        temp = bed_and_bath.split("bed")
-        bed = temp[0] + "bed"
-        bath = temp[1].strip()
+        temp = bed_and_bath.split(" bed")
+        bed = temp[0]
+        bath = temp[1].replace(" bath", "").strip()
         address = view.find("div", class_="listing-address_root__g9lT5 listing-card_address__6GsHt").text
         link = view.find("a", class_ ="listing-card_listingCard__lc4CL")["href"]
 
@@ -47,10 +48,10 @@ for page_num in range(1,6):
         
 #Exporting data into a csv using pandas
 
-data = {"Price" : prices, "Address" : addresses, "Beds" : beds, "Baths" : baths, "Type" : estate_type, "Link" : link}
+data = {"Price" : prices, "Address" : addresses, "Beds" : beds, "Baths" : baths, "Type" : estate_type, "Link" : links}
 df = pd.DataFrame(data)
 df["Type"] = df["Type"].replace({True: "Condo", False: "House"})
 
 
 #convert data into csv file
-df.to_csv("Toronto_listings.csv", sep=',', index=False, encoding='utf-8')
+df.to_csv(f"Listings_{date.today()}.csv", sep=',', index=False, encoding='utf-8')
