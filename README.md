@@ -17,7 +17,7 @@
 Optional:
 
 Would I be able to get an api (like maps) to get a general location of the property, and correlate that if the closer it is to downtown, the more expensive it is?
-#UPDATE: Tried, apis do not like my multiple request calls. Could work if I use Google Maps however I am scared I might get charged money trying. :(
+# UPDATE: Tried, apis do not like my multiple request calls. Could work if I use Google Maps however I am scared I might get charged money trying. :(
 
 Automate Process
 
