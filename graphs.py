@@ -16,7 +16,7 @@ data.drop_duplicates(inplace = True)
 #Get rid of anomlaies where price is over 20 mil
 data = data[data['Price'] <= 8000000]
 
-#Convert datafram into numpy array format
+#Convert dataframe into numpy array format
 df = pd.DataFrame(data)
 df_array = df.values
 prices = df_array[:,0].astype(int)
@@ -24,6 +24,8 @@ address = df_array[:,1]
 beds = df_array[:,2].astype(int)
 baths = df_array[:,3].astype(int)
 types = df_array[:,4]
+
+
 
 
 # Creating a 2x2 grid of subplots
@@ -66,17 +68,28 @@ axes[1, 0].plot(bed_bath, p(bed_bath), "r", label="Trend line")
 axes[1, 0].legend()
 
 
+# Read the distance data
+pvd = pd.read_csv("Price_vs_Distance_2024-05-09.csv")
+distances = pvd["Distance"].values
+prices = pvd["Price"].values
+# Price vs Distance from Toronto
+axes[1,1].scatter(distances, prices)
+axes[1,1].set_xlabel("Distance from Toronto (km)")
+axes[1,1].set_ylabel("Price")
+axes[1,1].set_title("Price vs Distance from Toronto")
+# Fit the trend line
+z = np.polyfit(distances, prices, 1)
+p = np.poly1d(z)
+axes[1,1].plot(distances, p(distances), "r", label="Trend line")
+axes[1,1].legend()
+
 # Custom formatter for y-axis to display values in millions
 formatter = FuncFormatter(lambda x, pos: '{:.0f}M'.format(x * 1e-6))
 for ax in axes.flat:
     ax.yaxis.set_major_formatter(formatter)
-    
-# Optional: Remove the empty subplot
-fig.delaxes(axes[1, 1])
 
 # Adjust layout
 plt.tight_layout()
 
-print(prices)
 plt.show()
 
