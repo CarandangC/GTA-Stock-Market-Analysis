@@ -46,7 +46,7 @@ for elem in address:
     distance = gmaps.distance_matrix((latitude, longitude), downtown_toronto_coordinates)['rows'][0]['elements'][0]['distance']['value'] / 1000
     distances = np.append(distances, distance)
     
-price_vs_distance = {"Price" : prices, "Distance" : distances}
+price_vs_distance = {"Price" : prices, "Distance" : distances, "Beds" : beds, "Baths" : baths, "Type" : types, "Address" : address}
 df = pd.DataFrame(price_vs_distance)
 
 #convert df into csv file
