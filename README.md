@@ -33,7 +33,10 @@ Based on the data created using the google maps api, we have gotten the followin
 ![alt text](image-4.png)
 This was very interesting as it has proven my hypothesis wrong, as it does not seem like the prices of houses are more expensive the closer it is to Toronto. I suspect that because the number of beds and baths are not consistent in this data set, this graph does not provide anything useful.
 
-
+After making the number of beds a constant value (2), the corresponding graph was created:
+![alt text](image-5.png)
+Therefore I can conclude that the price of housing increases the closer it is to downtown Toronto.
+I assume that the prices which is under one million are rent housing prices.
 ---------------------------
 # TO DO:
 
